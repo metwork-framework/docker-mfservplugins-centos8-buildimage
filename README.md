@@ -1,0 +1,1 @@
+# docker-mfservplugins-centos8-buildimage
